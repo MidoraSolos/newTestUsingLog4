@@ -1,0 +1,9 @@
+[INFO ] 2022-09-06 10:25:16.155 [main] TestingLog4 - Clicked login
+[TRACE] 2022-09-06 10:25:16.155 [main] TestingLog4 - This is trace message
+[ERROR] 2022-09-06 10:25:16.155 [main] TestingLog4 - This is an error message
+[WARN ] 2022-09-06 10:25:16.155 [main] TestingLog4 - This is a warning message
+[INFO ] 2022-09-06 10:30:28.740 [main] TestingLog4 - Clicked login
+[TRACE] 2022-09-06 10:30:28.740 [main] TestingLog4 - This is trace message
+[ERROR] 2022-09-06 10:30:28.740 [main] TestingLog4 - This is an error message
+[WARN ] 2022-09-06 10:30:28.740 [main] TestingLog4 - This is a warning message
+[INFO ] 2022-09-06 10:45:39.984 [main] TestingLog4 - Clicked login
